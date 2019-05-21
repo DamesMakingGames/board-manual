@@ -7,7 +7,6 @@ This committee is governed by the joint [Terms of Reference](/committees/terms-o
 * **Chair:** Izzie Colpitts-Campbell
 * **Members:** Yifat Shaik, Jennie Robinson Faber, Jen Costa, Kaitlin Tremblay, Mic Fok, Kae Bagg, Rose Goodwin
 
-
 ## Responsibilities
 
 Responsible for long-term planning and execution of all regular and major 
